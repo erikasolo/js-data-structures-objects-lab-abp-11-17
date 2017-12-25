@@ -16,4 +16,8 @@ let driver={};
  function destructivelyDeleteFromDriverByKey(driver, key){
    delete driver[key];
    return driver;
+<<<<<<< HEAD
  }
+=======
+ }
+>>>>>>> 08ac6c00ce68c2191f95240179e3b44418d90451
